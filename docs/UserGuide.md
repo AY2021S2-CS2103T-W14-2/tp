@@ -394,7 +394,7 @@ Format: `exit`
 
 ### 5.12 Viewing all categories spent for the current month
 
-<img src="images/features/stats-side-panel.png" width="1200px">
+<img src="images/features/stats-side-panel.png" width="600px">
 
 The UI displays all the categories spent for the current month at the side panel of the application. The categories are 
 sorted in lexicographical order, so that users are able to find the amounts spent on any particular category easily.
